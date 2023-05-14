@@ -147,14 +147,14 @@ foreground = '#E6ECFE'
 
 gradient = 1
 
-gradient_color_1 = '#8bd5ca'
-gradient_color_2 = '#91d7e3'
-gradient_color_3 = '#7dc4e4'
-gradient_color_4 = '#8aadf4'
-gradient_color_5 = '#c6a0f6'
-gradient_color_6 = '#f5bde6'
-gradient_color_7 = '#ee99a0'
-gradient_color_8 = '#ed8796'
+gradient_color_1 = '#182126'
+gradient_color_2 = '#677680'
+gradient_color_3 = '#495965'
+gradient_color_4 = '#3d4952'
+gradient_color_5 = '#979585'
+gradient_color_6 = '#d9a125'
+gradient_color_7 = '#8e9ca6'
+gradient_color_8 = '#c3cbd1'
 
 
 [smoothing]
