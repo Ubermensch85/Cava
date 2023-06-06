@@ -60,7 +60,7 @@ framerate = 90
 # For fifo 'source' will be the path to fifo-file.
 # For shmem 'source' will be /squeezelite-AA:BB:CC:DD:EE:FF where 'AA:BB:CC:DD:EE:FF' will be squeezelite's MAC address
 method = pulse
-; source = auto
+source = auto
 
 ; method = alsa
 ; source = hw:Loopback,1
@@ -145,16 +145,16 @@ foreground = '#E6ECFE'
 # You can define as many as 8 different colors. They range from bottom to top of screen
 [color]
 
+
 gradient = 1
 
-gradient_color_1 = '#182126'
-gradient_color_2 = '#677680'
-gradient_color_3 = '#495965'
-gradient_color_4 = '#3d4952'
-gradient_color_5 = '#979585'
-gradient_color_6 = '#d9a125'
-gradient_color_7 = '#8e9ca6'
-gradient_color_8 = '#c3cbd1'
+gradient_color_1 = '#515F67'
+gradient_color_2 = '#C6CED5'
+gradient_color_3 = '#B3C0CA'
+gradient_color_4 = '#70808B'
+gradient_color_5 = '#EBF0F4'
+
+
 
 
 [smoothing]
@@ -196,4 +196,5 @@ gradient_color_8 = '#c3cbd1'
 ; 3 = 1 # midtone
 ; 4 = 1
 ; 5 = 1 # treble
+
 
